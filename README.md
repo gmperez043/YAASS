@@ -1,7 +1,7 @@
 # YAASS
-Yet another arduino step sequencer
+Yet Another Arduino Step Sequencer
 
-YASS is a really simple MIDI 8 step sequencer / arpegiator for the Arduino. You can set a note for each step. It also recives MIDI data and transpose the sequence.
+YAASS is a really simple MIDI 8 step sequencer for the Arduino. You can set a note for each step. It also recives MIDI data and transpose the sequence.
 
 The code has been developed using the Mega but it should work in other Arduinos.
 
